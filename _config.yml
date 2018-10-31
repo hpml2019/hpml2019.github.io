@@ -7,20 +7,20 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+title:       "HPML 2019: HIGH PERFORMANCE MACHINE LEARNING"
+keywords:    "Machine Learning, ML, Artificial Intelligence, AI, HPC, hpc, High Performance Computing, CCGRID"
+description: "International Workshop on High Performance Machine Learning"
+source_link: ""
+favicon:     "img/cerebroIcon.png"
+touch_icon:  "imp/cerebroIcon.png"
+google_analytics_key: UA-128362964-1  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -30,9 +30,13 @@ colors:
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#e96725'
   turquoise: '#0fbfcf'
-
+  red:	     '#e42f43'
+  grey:	     '#636363'
+  bleu:      '#00209F'
+  rouge:     '#F42A41'
+                            
 kramdown:
   auto_ids:  false
 
