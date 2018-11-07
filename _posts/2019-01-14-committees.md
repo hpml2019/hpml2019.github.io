@@ -1,7 +1,7 @@
 ---
 title: "Committees"
-bg: cyprusmustard
-color: white
+bg: white
+color: black
 style: left
 fa-icon: group
 ---
@@ -10,9 +10,10 @@ fa-icon: group
 - Eduardo Rocha Rodrigues, IBM Research - edrodri (at) br (dot) ibm (dot) com
 - Jairo Panetta, Instituto Tecnologico de Aeronautica, ITA, Brazil
 - Bruno Raffin, INRIA, France
+- Abhishek Gupta, Schlumberger, USA
+- Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain
 
 ### Program Committee
-- Abhishek Gupta, Schlumberger, USA
 - Albert N. Kahira, Barcelona Supercomputing Center, Spain
 - Aline Paes, Universidade Federal Fluminense, UFF, Brazil
 - Andrea Schwertner Charao, Universidade Federal de Santa Maria, UFSM, Brazil
@@ -31,7 +32,6 @@ fa-icon: group
 - Haroldo Fraga de Campos Velho, Instituto Nacional de Pesquisas Espaciais, INPE, Brazil
 - Ian Masliah, Laboratoire d'Informatique de Paris, LIP, France
 - Jose Celaya, Schlumberger, USA
-- Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain
 - Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
 - Luiz Gustavo Almeida Martins, Universidade Federal de Uberlandia, UFU, Brazil
 - Marc Casas, Barcelona Supercomputing Center, Spain
