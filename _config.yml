@@ -37,6 +37,7 @@ colors:
   bleu:      '#00209F'
   rouge:     '#F42A41'
   cyprusgreen: '#4E5B31'
+  cyprusmustard: '#D57800'
                             
 kramdown:
   auto_ids:  false
