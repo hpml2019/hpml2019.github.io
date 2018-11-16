@@ -12,6 +12,7 @@ fa-icon: group
 - Bruno Raffin, INRIA, France
 - Abhishek Gupta, Schlumberger, USA
 - Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain
+- Marco Netto, IBM Research, Brazil
 
 ### Program Committee
 
