@@ -14,6 +14,6 @@ fa-icon: group
 - Leonardo Bautista Gomez, Barcelona Supercomputing Center, Spain
 - Marco Netto, IBM Research, Brazil
 
-### Program Committee
+### Workshop Committee
 
 # TBD
