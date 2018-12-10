@@ -28,6 +28,7 @@ fa-icon: group
 - Gabriel Perdue, Fermilab, USA
 - Janis Keuper, Fraunhofer Institute for Industrial Mathematics ITWM, Germany
 - Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
+- Mauricio Araya, Shell Oil USA, USA
 - Olivier Beaumont, INRIA, France
 - Rick L. Stevens, Argonne National Laboratory, USA
 - Steven R Young, Oak Ridge National Laboratory, USA
