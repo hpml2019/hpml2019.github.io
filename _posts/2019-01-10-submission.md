@@ -9,7 +9,7 @@ icon-title: true
 
 ### Submission
 
-We invite authors to submit original work to HPML. All papers will be peer reviewed and accepted papers will be published in IEEE Xplore. **Pending special issue of a top journal for the best papers of HPML2019 - in the last edition of the workshop, best papers were invited to Elsevier JPDC - <a href="https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/special-issue-advances-parallel-high-performance-computing">Special Issue on Advances on Parallel and High Performance Computing for AI Applications</a>.**
+We invite authors to submit original work to HPML. All papers will be peer reviewed and accepted papers will be published in IEEE Xplore. **A number of papers will be selected and authors invited to a special issue of the Journal Concurrency and Computation Practice and Experience - <a href="http://www.cc-pe.net/journalinfo/issues/2019.html#HPML2019">Special Issue on Advances in Parallel and High Performance Computing for Artificial Intelligence Applications</a>**
 
 Submissions must be in English, limited to 8 pages in the IEEE conference format (see <a href="https://www.ieee.org/conferences/publishing/templates.html" style="color:white">https://www.ieee.org/conferences/publishing/templates.html</a> )
 
