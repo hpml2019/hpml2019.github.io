@@ -25,6 +25,9 @@ html { box-sizing: border-box; }
   #{{id}} .sectiondivider { color: {{ "#000000" }}; }
 {% endfor %}
 
+nav .p-previous {
+  border-color: white;
+}
 
 /* ----- code, syntax highlighting, etc ----- */
 
