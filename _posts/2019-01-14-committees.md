@@ -26,6 +26,7 @@ fa-icon: group
 - Emmanuel Jeannot, INRIA, France
 - Fabio Cozman, Universidade de Sao Paulo, USP, Brazil
 - Gabriel Perdue, Fermilab, USA
+- Holger Fröning, University of Heidelberg, Germany
 - Janis Keuper, Fraunhofer Institute for Industrial Mathematics ITWM, Germany
 - Lucas Mello Schnorr, Universidade Federal do Rio Grande do Sul, UFRGS, Brazil
 - Mauricio Araya, Shell Oil USA, USA
