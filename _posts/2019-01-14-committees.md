@@ -19,6 +19,7 @@ fa-icon: group
 - Aleksandr Drozd, Tokyo Institute of Technology, Japan
 - Aline Paes, Universidade Federal Fluminense, UFF, Brazil
 - Brian Van Essen, Lawrence Livermore National Laboratory, USA
+- Bruno Schulze, Laboratorio Nacional de Computacao Cientifica, LNCC, Brazil
 - Celso Mendes, Instituto Nacional de Pesquisas Espaciais, INPE, Brazil
 - Daniela Ushizima, Lawrence Berkeley National Laboratory, USA
 - Dario Garcia-Gasulla, Barcelona Supercomputing Center, Spain
