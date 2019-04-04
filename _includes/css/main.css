@@ -26,7 +26,7 @@ html { box-sizing: border-box; }
 {% endfor %}
 
 nav .p-previous {
-  border-color: rgba(84,47,0);
+  border-color: #D57800;
 }
 
 /* ----- code, syntax highlighting, etc ----- */
