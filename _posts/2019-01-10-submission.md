@@ -1,7 +1,7 @@
 ---
 title: "Submission"
-bg: cyprusmustard
-color: white
+bg: white
+color: black
 style: left
 fa-icon: check
 icon-title: true
