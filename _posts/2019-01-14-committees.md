@@ -1,7 +1,7 @@
 ---
 title: "Committees"
-bg: cyprusgreen
-color: white
+bg: white
+color: black
 style: left
 fa-icon: group
 ---
